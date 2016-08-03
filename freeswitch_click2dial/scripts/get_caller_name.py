@@ -75,6 +75,9 @@ unknown_name = "unknown"
 # Set to 1 for debugging output
 verbose = 0
 
+# Set to 1 for debugging output
+verbose = 0
+
 
 def stdout_write(string):
     '''Wrapper on sys.stdout.write'''
