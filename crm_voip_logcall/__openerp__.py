@@ -23,7 +23,7 @@
 
 {
     'name': 'CRM Voip Phone Log-call',
-    'version': '9.0.0.1.0',
+    'version': '9.0.1.0.0',
     'category': 'Phone',
     'license': 'AGPL-3',
     'summary': 'Necessary bridge between log-call and CRM VoIP module',

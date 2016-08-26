@@ -144,7 +144,7 @@ class PhoneCommon(models.AbstractModel):
                         phonecalls[0]['date'].strptime('%Y-%m-%d %H:%M:%S')
             if phonecalls[0]['description']:
                 odoo_description = phonecalls[0]['description'] + '\n' + \
-                                   odoo_description
+                    odoo_description
             if phonecalls[0]['recording_id']:
                 attach_id = phonecalls[0]['recording_id']
             phonecall_id = phonecalls[0]

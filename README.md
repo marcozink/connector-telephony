@@ -32,7 +32,6 @@ addon | version | summary
 [crm_claim_phone](crm_claim_phone/) | 8.0.0.1.0 | Validate phone numbers in CRM Claims
 [crm_phone](crm_phone/) | 8.0.0.1.0 | Validate phone numbers in CRM
 [event_phone](event_phone/) | 8.0.0.1.0 | Validate phone numbers in Events
-[freeswitch_click2dial](freeswitch_click2dial/) | 8.0.0.4.0 | FreeSWITCH-Odoo telephony connector (click2dial)
 [hr_phone](hr_phone/) | 8.0.0.1.0 | Validate phone numbers in HR
 [hr_recruitment_phone](hr_recruitment_phone/) | 8.0.0.1.0 | Validate phone numbers in HR Recruitment
 [ovh_telephony_connector](ovh_telephony_connector/) | 8.0.0.1.0 | OVH-Odoo telephony connector (click2call)
